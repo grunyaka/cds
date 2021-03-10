@@ -1,0 +1,42 @@
+#
+#   VizieR Astronomical Server vizier.u-strasbg.fr
+#    Date: 2020-08-31T09:47:26 [V1.99+ (14-Oct-2013)]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	votable-version=1.99+ (14-Oct-2013)	
+#INFO	-ref=VIZ5f4cbb4e2be0	
+#INFO	-out.max=50	
+#INFO	queryParameters=16	
+#-oc.form=dec
+#-out.max=50
+#-nav=cat:I/327&tab:{I/327/cmc15}&key:source=I/327&HTTPPRM:&
+#-c.eq=J2000
+#-c.r=  2
+#-c.u=arcmin
+#-c.geom=r
+#-source=I/327/cmc15
+#-order=I
+#-out=RA_ICRS
+#-out=DE_ICRS
+#-out=e_RA_ICRS
+#-out=e_DE_ICRS
+#-out=MJD-51263
+#-out=Jmag
+#2MASS=2MASS
+#
+
+#RESOURCE=yCat_1327
+#Name: I/327
+#Title: Carlsberg Meridian Catalog 15 (CMC15) (CMC, 2011)
+#Coosys	H:	ICRS
+#Table	I_327_cmc15:
+#Name: I/327/cmc15
+#Title: catalog output
+#Column	RA_ICRS	(F10.6)	Right Ascension (ICRS)	[ucd=pos.eq.ra;meta.main]
+#Column	DE_ICRS	(F10.6)	Declination (ICRS)	[ucd=pos.eq.dec;meta.main]
+#Column	e_RA_ICRS	(F6.3)	Standard deviation of RA (2)	[ucd=stat.error;pos.eq.ra]
+#Column	e_DE_ICRS	(F6.3)	Standard deviation of DE (2)	[ucd=stat.error;pos.eq.dec]
+#Column	MJD-51263	(I4)	Mean epoch of astrometry, as days since 26-3-1999 (=MJD-51263, or JD-2451263.5)	[ucd=time.epoch]
+#Column	Jmag	(F6.3)	? 2MASS J magnitude (1.25um) (3)	[ucd=phot.mag;em.IR.J]

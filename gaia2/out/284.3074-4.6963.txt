@@ -1,0 +1,27 @@
+284.30743819323317 -4.696300808721792 19.023756
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+0	179996.3623873683	-539414.569453907	48	170338.80005531493	-544236.4764165302	17.920427	16.298	2015.5	2013.483	284.3549242	-4.8474756	
+7	170360.2726604579	-544270.8462890735	46	165548.68771973104	-547368.16860065	16.22504	16.344	2015.5	2013.458	284.3535889	-4.8483456	
+22	98787.3308031911	-580291.7592606074	13	98733.09717812379	-580245.7473598941	12.744257	13.052	2015.5	2013.887	284.3349628	-4.8574792	
+Number of stars before calibration: 3
+Settings of the model:
+order of the model (n) = 1
+min num of ref stars (Nmin) = 10
+max residual (rmax) = 100 [mas]
+CALIBRATION FAILED
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------

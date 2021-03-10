@@ -1,0 +1,21 @@
+306.49231902810345 0.5178388350806559 20.692167
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------

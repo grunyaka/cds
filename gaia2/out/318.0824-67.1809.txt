@@ -1,0 +1,13 @@
+318.0823979194037 -67.18091908651436 19.576998
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15: connection attempt FAILED
+Pan-STARRS DR1: connection attempt FAILED
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1: connection attempt FAILED
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------

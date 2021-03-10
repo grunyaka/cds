@@ -1,0 +1,7 @@
+ra,dec,ra_error,dec_error,ref_epoch,phot_g_mean_mag,link,pecularity
+CMC15,RA_ICRS,DE_ICRS,e_RA_ICRS,e_DE_ICRS,MJD-51263,r_mag,I/327/cmc15,51263|mjd
+Pan-STARRS DR1,RAJ2000,DEJ2000,e_RAJ2000,e_DEJ2000,_tab1_10,gmag,II/349/ps1,0|mjd
+2MASS All-Sky,RAJ2000,DEJ2000,errMaj,errMin,_tab1_36,Jmag,II/246/out,0|jd
+SDSS DR12,RA_ICRS,DE_ICRS,e_RA_ICRS,e_RA_ICRS,ObsDate,gmag,V/147/sdss12,
+URAT1,RAJ2000,DEJ2000,sigs,sigm,Epoch,gmag,I/329/urat1,mas
+UCAC4,RAJ2000,DEJ2000,e_RAJ2000,e_DEJ2000,EpRA,gmag,I/322A/out,EpDE:mas

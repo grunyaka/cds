@@ -1,0 +1,19 @@
+108.56181105315542 -6.528907330324636 13.749958
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------

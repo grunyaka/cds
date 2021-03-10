@@ -1,0 +1,42 @@
+298.4907349286139 21.279061481183057 20.342302
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+0	-418013.5624671562	-424627.58869146724	14	-418040.98745049944	-424789.9114411439	15.188768	15.922	2015.5	1996.27	298.3662165	21.1610189	
+77	-371171.8147404396	-287196.6409218422	27	-380532.92222350894	-293474.2373687078	17.950535	14.969	2015.5	2001.375	298.3773606	21.1975031	
+819	-408429.7272487063	-322356.1870654422	21	-407927.44449569215	-314322.86375217116	17.645433	15.74	2015.5	1999.72	298.3692036	21.1917062	
+1260	-488409.2608338144	-294816.7817946539	3	-488349.95219730673	-290617.03294954414	15.754125	14.81	2015.5	2001.565	298.3452374	21.1982723	
+1328	-514583.30400322174	-296780.96129316057	0	-514569.63441174664	-296761.30521701515	14.145252	14.684	2015.5	2001.25	298.3374274	21.1965587	
+Number of stars before calibration: 5
+Settings of the model:
+order of the model (n) = 1
+min num of ref stars (Nmin) = 10
+max residual (rmax) = 100 [mas]
+Number of stars after calibration: 4
+
+Parameters of the model:
+127342.24509783089	0.3153918746715192	1.0690163531762522	
+162038.2383178398	1.4716183259878477	0.05049818993040134	
+Errors:2872.4953226383327 [mas], 6362.743517376444 [mas]
+Gaia PM errors: 0.986134834364515 1.1877496412598139
+Calc residuals: 2872.4953226383327 6362.743517376444
+Epoch diff: -19.230000000000018
+PM erroros: 149.37898685768567 330.8780297730202
+Gaia2 PM [mas]: -10.774375139092333 -6.830880656435154
+Calc PM [mas]: [-28361.06253501] [-30516.28443884]
+F: 211.00139392508365
+-----------------------------------------------------------------------------------------------

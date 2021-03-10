@@ -1,0 +1,26 @@
+289.34905713150397 17.50718625581336 20.417532
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+0	433644.4793141127	-414418.97724705614	13	433635.67174524494	-414440.4992214766	17.964884	21.3975	2015.5	2012.2420711334155	289.47528182	17.39202439	
+1386	-41203.45296839493	-584598.1892734331	20	-41228.70374618011	-584625.2155493656	17.764067	19.4834	2015.5	2011.786143116085	289.33705919	17.34479044	
+Number of stars before calibration: 2
+Settings of the model:
+order of the model (n) = 1
+min num of ref stars (Nmin) = 10
+max residual (rmax) = 100 [mas]
+CALIBRATION FAILED
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------

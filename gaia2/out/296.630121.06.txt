@@ -1,0 +1,41 @@
+296.63009868554667 21.059950374890317 19.97569
+Gaia index of the object: 0
+-----------------------------------------------------------------------------------------------
+CMC15
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+Pan-STARRS DR1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+0	-5926.321434101529	-586435.3833636624	26	-5934.6149481509665	-586459.7093139843	17.774532	18.9268	2015.5	2012.0131634217933	296.62833412	20.89704533	
+498	-11165.416444440018	-575649.1616645966	27	-6194.03081959309	-581590.9913669189	17.853884	21.8046	2015.5	2012.1692347960575	296.62825697	20.89839774	
+1624	146624.51390790517	-579872.6016192423	33	146619.4594385807	-579883.0394833577	14.056644	14.7307	2015.5	2011.8418707696374	296.67369423	20.89886665	
+1836	24903.928860275373	-587108.765192427	17	17166.83421971547	-592444.2300594912	16.881233	19.254	2015.5	2011.9897296689117	296.63520292	20.89538291	
+Number of stars before calibration: 4
+Settings of the model:
+order of the model (n) = 1
+min num of ref stars (Nmin) = 10
+max residual (rmax) = 100 [mas]
+Number of stars after calibration: 3
+
+Parameters of the model:
+-629895.715695532	-1.0749830561761495	1.0445802227163998	
+-10014.86617108807	0.9729738796284195	-0.0385125195103182	
+Errors:inf [mas], inf [mas]
+Gaia PM errors: 1.0139236609679874 1.2497737593395055
+Calc residuals: inf inf
+Epoch diff: -3.4868365782067485
+PM erroros: inf inf
+Gaia2 PM [mas]: -10.759171554057867 15.65026436665298
+Calc PM [mas]: [178947.61820707] [-165320.29253845]
+F: 0.0
+-----------------------------------------------------------------------------------------------
+2MASS All-Sky
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+SDSS DR12: connection attempt FAILED
+URAT1
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
+UCAC4
+Ncat	KSIcat [mas]   	ETAcat [mas]   	Ngaia	KSIgaia [mas]   	ETAgaia [mas]   	bias [mas]          	mgaia	mcat	tgaia	tcat
+ERROR. The object is not found.-----------------------------------------------------------------------------------------------
